@@ -12,13 +12,17 @@ First, you need a Linux distribution such as Ubuntu. You can either install Ubun
 # Install ROS
 1. From inside Ubuntu, open the application drawer and run the Terminal.
 2. In the terminal type the following commands:
-```bash
+```shell
  sudo apt-get update
  sudo apt-get upgrade
  ```
 3. Run the following script which will download a ROS installation script, give it permissions to execute, and run it:
-```bash wget -c https://raw.githubusercontent.com/qboticslabs/ros_install_noetic/master/ros_install_noetic.sh && chmod +x ./ros_install_noetic.sh && ./ros_install_noetic.sh```
+```shell
+wget -c https://raw.githubusercontent.com/qboticslabs/ros_install_noetic/master/ros_install_noetic.sh && chmod +x ./ros_install_noetic.sh && ./ros_install_noetic.sh
+```
 3. You will be asked to select how much of ROS you want to be installed. Enter 2 and hit enter.
 4. After the installation progress is done, close the terminal and open a new one and type:
-```bash rosversion -d```
+```shell
+rosversion -d
+```
 which should print noetic. That's how you know it was installed correctly.
