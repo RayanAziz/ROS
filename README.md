@@ -25,4 +25,4 @@ wget -c https://raw.githubusercontent.com/qboticslabs/ros_install_noetic/master/
 ```shell
 rosversion -d
 ```
-which should print noetic. That's how you know it was installed correctly.
+which should print *noetic*. That's how you know it was installed correctly.
