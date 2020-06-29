@@ -6,13 +6,13 @@ First, you need a Linux distribution such as Ubuntu. You can either install Ubun
 # Install Ubuntu 20.04 on Virtual Box
 1. Download Ubuntu Desktop 20.04 from: https://ubuntu.com/download/desktop
 2. Install Virtual Box and run it.
-a. Click on New.
-b. Type: Linux, Version: Ubuntu 64-bit
-c. Memory size = your PC's memory size / 4
-d. Create a virtual hard disk now
-e. VDI
-f. Dynamically allocated
-g. 10 GB and click on create
+  - Click on New.
+  - Type: Linux, Version: Ubuntu 64-bit
+  - Memory size = your PC's memory size / 4
+  - Create a virtual hard disk now
+  - VDI
+  - Dynamically allocated
+  - 10 GB and click on create
 
 3. Start the the virtual machine you just created, you will be attemted to select a system file to boot from, select the Ubuntu ISO file you downloaded earlier.
 
