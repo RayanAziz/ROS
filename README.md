@@ -2,19 +2,23 @@ How to install ROS
 
 # Virtual Box
 First, you need a Linux distribution such as Ubuntu. You can either install Ubuntu as a standalone system or on a virtual machine. We are going to do it Virtual Box, which can be downloaded from here: https://www.virtualbox.org/wiki/Downloads
+
 ![ROS](/img/1.png)
 
 # Install Ubuntu 20.04 on Virtual Box
 1. Download Ubuntu Desktop 20.04 from: https://ubuntu.com/download/desktop
+
 ![ROS](/img/2.png)
 2. Install Virtual Box and run it.
   - Click on New.
+  
   ![ROS](/img/3.png)
   - Type: Linux, Version: Ubuntu 64-bit.
   ![ROS](/img/4.png)
   - Memory size = your PC's memory size / 4.
   ![ROS](/img/5.png)
   - Create a virtual hard disk now.
+  
   ![ROS](/img/6.png)
   - VDI.
   ![ROS](/img/7.png)
