@@ -14,6 +14,7 @@ First, you need a Linux distribution such as Ubuntu. You can either install Ubun
   
   ![ROS](/img/3.png)
   - Type: Linux, Version: Ubuntu 64-bit.
+  
   ![ROS](/img/4.png)
   - Memory size = your PC's memory size / 4.
   ![ROS](/img/5.png)
