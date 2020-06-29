@@ -17,10 +17,10 @@ g. 10 GB and click on create
 3. Start the the virtual machine you just created, you will be attemted to select a system file to boot from, select the Ubuntu ISO file you downloaded earlier.
 
 4. Follow the on screen steps.
-a. Choose Install Ubuntu.
-b. Proceed with the intuitive installation process. You will only change the installation type to minimal, the rest should remain on the default selections and not changed.
-c. Let Ubuntu install itself.
-d. Restart Ubuntu.
+  - Choose Install Ubuntu.
+  - Proceed with the intuitive installation process. You will only change the installation type to minimal, the rest should remain on the default selections and not changed.
+  - Let Ubuntu install itself.
+  - Restart Ubuntu.
 
 # Install ROS
 1. From inside Ubuntu, open the application drawer and run the Terminal.
